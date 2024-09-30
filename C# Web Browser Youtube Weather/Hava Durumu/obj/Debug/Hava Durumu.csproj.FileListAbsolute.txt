@@ -1,0 +1,20 @@
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\obj\Debug\Hava Durumu.csprojAssemblyReference.cache
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\obj\Debug\Hava_Durumu.Form1.resources
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\obj\Debug\Hava_Durumu.Properties.Resources.resources
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\obj\Debug\Hava Durumu.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\obj\Debug\Hava Durumu.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\bin\Debug\Hava Durumu.exe.config
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\bin\Debug\Hava Durumu.exe
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\bin\Debug\Hava Durumu.pdb
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\obj\Debug\Hava Durumu.exe
+D:\Google Drive\Visual Studio\Windows Forms\Hava Durumu\obj\Debug\Hava Durumu.pdb
+D:\Masaüstü\Görsel Prog\Hava Durumu\bin\Debug\Hava Durumu.exe.config
+D:\Masaüstü\Görsel Prog\Hava Durumu\bin\Debug\Hava Durumu.exe
+D:\Masaüstü\Görsel Prog\Hava Durumu\bin\Debug\Hava Durumu.pdb
+D:\Masaüstü\Görsel Prog\Hava Durumu\obj\Debug\Hava Durumu.csprojAssemblyReference.cache
+D:\Masaüstü\Görsel Prog\Hava Durumu\obj\Debug\Hava_Durumu.Form1.resources
+D:\Masaüstü\Görsel Prog\Hava Durumu\obj\Debug\Hava_Durumu.Properties.Resources.resources
+D:\Masaüstü\Görsel Prog\Hava Durumu\obj\Debug\Hava Durumu.csproj.GenerateResource.cache
+D:\Masaüstü\Görsel Prog\Hava Durumu\obj\Debug\Hava Durumu.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Görsel Prog\Hava Durumu\obj\Debug\Hava Durumu.exe
+D:\Masaüstü\Görsel Prog\Hava Durumu\obj\Debug\Hava Durumu.pdb
